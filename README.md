@@ -66,7 +66,7 @@ Key learning outcomes included:
 
 ---
 
-## 📁 Key Artifacts in This Repository  
+##  Key Artifacts in This Repository  
 
 ### **1. Sprint Review & Retrospective (APA formatted)**  
 A detailed reflection on my experience acting as a Scrum Master and reviewing the project outcomes.
@@ -102,7 +102,7 @@ A collaborator invite link was submitted separately in Brightspace as required.
 
 ##  Contact  
 If you have questions about this project or my work:  
-**Email:** *(add your SNHU email if desired)*  
+**Email:** roland.pratts@snhu.edu  
 **GitHub:** https://github.com/rpratts1  
 
 ---
