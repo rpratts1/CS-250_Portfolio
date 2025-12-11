@@ -103,7 +103,7 @@ A collaborator invite link was submitted separately in Brightspace as required.
 ##  Contact  
 If you have questions about this project or my work:  
 **Email:** *(add your SNHU email if desired)*  
-**GitHub:** https://github.com/YOUR-USERNAME  
+**GitHub:** https://github.com/rpratts1  
 
 ---
 
