@@ -14,7 +14,7 @@ This portfolio includes my:
 - Written reflections on software development methods  
 - Examples of communication in different Scrum roles  
 - Project artifacts from discussions, assignments, and team simulations  
-
+Note: The CS-250 Sprint Review and Retrospective deliverable is included in this repository and is directly linked below for easy access.
 ---
 
 ##  Tools & Technologies  
@@ -68,8 +68,15 @@ Key learning outcomes included:
 
 ##  Key Artifacts in This Repository  
 
-### **1. Sprint Review & Retrospective (APA formatted)**  
-A detailed reflection on my experience acting as a Scrum Master and reviewing the project outcomes.
+### 1. Sprint Review & Retrospective (APA formatted)
+
+This document contains my Sprint Review and Sprint Retrospective for the CS-250 final project, reflecting on team performance, outcomes, and continuous improvement.
+
+File location:
+/Sprint_Review_and_Retrospective.pdf
+
+Direct link:
+https://github.com/rpratts1/CS-250_Portfolio/blob/main/Sprint_Review_and_Retrospective.pdf
 
 ### **2. Agile Presentation (PowerPoint)**  
 A slide deck explaining Agile roles, Agile SDLC phases, and how Agile compares to Waterfall.
