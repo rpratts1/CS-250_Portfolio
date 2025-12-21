@@ -76,7 +76,7 @@ File location:
 /Sprint_Review_and_Retrospective.pdf
 
 Direct link:
-https://github.com/rpratts1/CS-250_Portfolio/blob/main/Sprint Review and Retrospective for the SNHU Travel Project.pdf
+https://github.com/rpratts1/CS-250_Portfolio/blob/main/Sprint_Review_and_Retrospective.pdf
 
 ### **2. Agile Presentation (PowerPoint)**  
 A slide deck explaining Agile roles, Agile SDLC phases, and how Agile compares to Waterfall.
